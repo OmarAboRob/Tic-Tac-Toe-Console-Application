@@ -6,6 +6,10 @@
 ### Author:
 *  Omar Abo-Alrob
 _______________________________________________________________________________________________________________________
+### How to run the code and play ?
+You have to paste this URL in any browser and the run button.
+https://replit.com/@OmarAboRob/SkeletalCumbersomeInformationtechnology#main.dart
+
 
 _______________________________________________________________________________________________________________________
 
