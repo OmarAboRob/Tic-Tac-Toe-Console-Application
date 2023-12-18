@@ -7,7 +7,7 @@
 *  Omar Abo-Alrob
 _______________________________________________________________________________________________________________________
 ### How to run the code and play ?
-You have to paste this URL in any browser and the run button.
+You have to click on this URL
 https://replit.com/@OmarAboRob/SkeletalCumbersomeInformationtechnology#main.dart
 
 
