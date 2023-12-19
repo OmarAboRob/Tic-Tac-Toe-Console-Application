@@ -33,9 +33,9 @@ Declare the game as a draw if all cells are filled, and no player has achieved a
 #### Sixth:
 Implement a loop to allow the game to continue until there is a winner or a draw.
 Provide an option to play the game again if it ends.
-Code Structure:
+#### Code Structure:
 I Organized my code into four functions to make the code more readble.
-Documentation:
+#### Documentation:
 I include comments at each part of code to make the code more clear.
 
 
